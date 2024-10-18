@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Alice",
+        "info": "Alice is a computer science major, interested in AI."
+    },
+    {
+        "name": "Bob",
+        "info": "Bob is a mathematics major, loves solving puzzles."
+    },
+    {
+        "name": "Charlie",
+        "info": "Charlie is a biology major, passionate about environmental science."
+    },
+    {
+        "name": "David",
+        "info": "David is an engineering major, enjoys robotics."
+    },
+    {
+        "name": "Eva",
+        "info": "Eva is a literature major, an avid reader and writer."
+    }
+]
