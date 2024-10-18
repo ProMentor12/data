@@ -1,22 +1,35 @@
 [
     {
         "name": "Jay",
-        "info": "Jay is a computer science major, interested in AI."
+        "father": "Mr. Johnson",
+        "mother": "Mrs. Johnson",
+        "address": "123 Main St, City",
+        "contact": "555-1234",
+        "rollNo": "001",
+        "subjects": {
+            "English": 85,
+            "Hindi": 78,
+            "Math": 92,
+            "Punjabi": 88,
+            "Physics": 90,
+            "Chemistry": 84
+        }
     },
     {
         "name": "Bob",
-        "info": "Bob is a mathematics major, loves solving puzzles."
-    },
-    {
-        "name": "Charlie",
-        "info": "Charlie is a biology major, passionate about environmental science."
-    },
-    {
-        "name": "David",
-        "info": "David is an engineering major, enjoys robotics."
-    },
-    {
-        "name": "Eva",
-        "info": "Eva is a literature major, an avid reader and writer."
+        "father": "Mr. Smith",
+        "mother": "Mrs. Smith",
+        "address": "456 Elm St, City",
+        "contact": "555-5678",
+        "rollNo": "002",
+        "subjects": {
+            "English": 75,
+            "Hindi": 80,
+            "Math": 88,
+            "Punjabi": 90,
+            "Physics": 70,
+            "Chemistry": 85
+        }
     }
+    // Add more student entries...
 ]
